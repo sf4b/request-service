@@ -1,0 +1,6 @@
+# Конфигурация сервиса.
+service:
+  grpc_endpoint: 10010
+  info:
+    name: request-service
+    version: 0.0.1
